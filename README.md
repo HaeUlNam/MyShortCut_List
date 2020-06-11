@@ -1,2 +1,3 @@
-# MyShortCut_List
-MyShortCut_List
+## IntelliJ
+- Find Action: Command + Shift + A
+
